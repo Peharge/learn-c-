@@ -5,8 +5,13 @@
 <br>
 
 <div align="center">
-<img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
+<img alt="c++" src="https://img.shields.io/badge/-Learn C++-blue">
 <img alt="peharge" src="https://img.shields.io/badge/Peharge-rgb(100, 100, 100)">
+<br>
+<br>
+
+<div align="center">
+<img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 <br>
 <br>
 
