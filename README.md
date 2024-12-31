@@ -15,6 +15,10 @@
 <br>
 <br>
 
+<img alt="os" src="https://img.shields.io/badge/os-linux%20%7C%20macOS%20%7C%20windows-blue">
+<br>
+<br>
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
 
