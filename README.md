@@ -1,16 +1,14 @@
 <p align="center">
     <img src="./readme-img/cpp-logo-3.png" width="350"/>
 </p>
-
 <br>
-
 <div align="center">
-<img alt="c++" src="https://img.shields.io/badge/-Learn C++-blue">
-<img alt="peharge" src="https://img.shields.io/badge/Peharge-rgb(100, 100, 100)">
+
+<img alt="Learn C++" src="https://img.shields.io/badge/Learn C++-blue">
+<img alt="Peharge" src="https://img.shields.io/badge/Peharge-blue">
 <br>
 <br>
 
-<div align="center">
 <img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 <br>
 <br>
@@ -20,6 +18,8 @@
 <br>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<br>
+
 </div>
 
 # _Learn C++_
