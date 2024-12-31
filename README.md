@@ -28,13 +28,28 @@
 
 This repository contains a collection of C++ code samples on various topics. Here you will find examples of basic to advanced C++ concepts.
 
+### Installation
+
+1. **Clone repository**<br>
+   Clone the repository to a local directory:
+    ```bash
+    git clone https://github.com/Peharge/learn-c-plus-plus
+    ```
+2. **Change directory**<br>
+   Navigate to the project directory:
+    ```bash
+    cd learn-c-plus-plus
+    ```
+   
+3. **Have fun**
+
 ## Structure
 
-- `basics/` - Basic C++ examples
-- `data_structures/` - data structures (arrays, lists, maps, etc.)
-- `oop/` - Object-oriented programming
-- `algorithms/` - Algorithms (sorting, searching, etc.)
-- `advanced/` - Advanced topics (multithreading, pointers, etc.)
+- `Standard-C++/` - Basic C++ examples
+- `Objective-C++/` - Objective C++ examples
+- `Visual-C++/` - Visual C++ examples
+
+I think you got it!
 
 ## Join in
 
