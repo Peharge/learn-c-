@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./readme-img/cpp-logo-3.png" width="350"/>
+    <img src="./readme-img/cpp-logo-3.png" width="250"/>
 </p>
 <br>
 <div align="center">
