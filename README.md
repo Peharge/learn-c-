@@ -10,6 +10,7 @@
 <br>
 
 <img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
+<img alt="Clion" src="https://img.shields.io/badge/-Clion-green?logo=clion">
 <br>
 <br>
 
