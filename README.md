@@ -52,13 +52,6 @@ This repository contains a collection of C++ code samples on various topics. Her
 
 I think you got it!
 
-## Join in
-
-1. Fork the repository
-2. Create a branch
-3. Add your code example
-4. Create a pull request
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
